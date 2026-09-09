@@ -174,7 +174,7 @@ The application provides visual feedback while answering:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+https://yasmin-youssef.github.io/Quiz-App/
 ```
 
 ### 2. Open the project
